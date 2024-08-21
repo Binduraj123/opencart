@@ -1,0 +1,52 @@
+11:41:40.004 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+11:41:40.011 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+11:41:41.454 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+11:41:41.495 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+11:47:08.652 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+11:47:08.654 [main] DEBUG TestCase.TC_001_AccountRegistrationTest - **apllication logs**
+11:47:08.725 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+11:47:09.500 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+11:47:09.500 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+11:47:10.980 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+11:47:11.013 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+11:47:57.887 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+11:47:57.890 [main] DEBUG TestCase.TC_001_AccountRegistrationTest - **apllication logs**
+11:47:57.979 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+11:47:59.284 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+11:47:59.285 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+11:48:00.850 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+11:48:00.884 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+11:52:22.418 [main] ERROR TestCase.TC_001_AccountRegistrationTest - **apllication logs**
+14:59:48.543 [main] ERROR TestCase.TC_001_AccountRegistrationTest - **test failed**
+15:28:56.054 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+15:28:56.244 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+15:28:56.273 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+15:28:56.353 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+15:28:57.154 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+15:28:57.154 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+15:28:58.167 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+15:28:58.167 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+15:28:58.595 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+15:28:58.640 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+15:28:58.641 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+15:28:59.738 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+15:28:59.775 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+15:28:59.775 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+15:15:39.445 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+15:15:39.556 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+15:15:41.938 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+15:15:41.938 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+15:15:43.346 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+15:15:43.387 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+15:15:43.388 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+10:51:42.492 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+10:51:42.572 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+10:51:43.626 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+10:51:43.626 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+10:51:45.099 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+10:51:45.129 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+10:51:45.130 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+13:29:01.043 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+13:29:01.122 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+13:29:02.089 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+13:29:02.089 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details

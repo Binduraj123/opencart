@@ -1,0 +1,30 @@
+2024-08-21 11:18:23 ERROR BaseClass:88 - No matching browser
+2024-08-21 11:18:23 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 11:18:23 ERROR BaseClass:65 - **test failed**
+2024-08-21 11:19:39 ERROR BaseClass:113 - No matching browser
+2024-08-21 11:19:39 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 11:19:39 ERROR BaseClass:65 - **test failed**
+2024-08-21 11:23:46 ERROR BaseClass:113 - No matching browser
+2024-08-21 11:23:46 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 11:23:46 ERROR BaseClass:65 - **test failed**
+2024-08-21 11:24:06 ERROR BaseClass:113 - No matching browser
+2024-08-21 11:24:06 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 11:24:06 ERROR BaseClass:65 - **test failed**
+2024-08-21 11:56:03 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 11:56:03 INFO  BaseClass:35 -  clicked on Myaccount
+2024-08-21 11:56:04 INFO  BaseClass:38 -  clicked on register
+2024-08-21 11:56:04 INFO  BaseClass:41 -  entering the user details
+2024-08-21 11:56:05 INFO  BaseClass:56 -  clicked on continue
+2024-08-21 11:56:08 INFO  BaseClass:61 -  validating the expected messesage
+2024-08-21 11:56:08 INFO  BaseClass:70 - ***finished the accountregistrationlink***
+2024-08-21 11:56:12 INFO  BaseClass:17 - ***** login testcase has started******
+2024-08-21 11:56:14 INFO  BaseClass:34 - ***** login testcase has ended******
+2024-08-21 12:24:39 INFO  BaseClass:30 -  *****starting the acoountregistrationlink testcase***
+2024-08-21 12:24:39 INFO  BaseClass:35 -  clicked on Myaccount
+2024-08-21 12:24:40 INFO  BaseClass:38 -  clicked on register
+2024-08-21 12:24:40 INFO  BaseClass:41 -  entering the user details
+2024-08-21 12:24:41 INFO  BaseClass:56 -  clicked on continue
+2024-08-21 12:24:44 INFO  BaseClass:61 -  validating the expected messesage
+2024-08-21 12:24:44 INFO  BaseClass:70 - ***finished the accountregistrationlink***
+2024-08-21 12:24:48 INFO  BaseClass:17 - ***** login testcase has started******
+2024-08-21 12:24:50 INFO  BaseClass:34 - ***** login testcase has ended******

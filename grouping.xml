@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="GroupSuite" >
+	
+	<groups>
+		<run>
+			<include name="master"></include>
+			<!--<include name="Sanity"></include>-->
+			<!--<include name="Regression"></include>
+			<exclude name=""></exclude>-->
+		</run>
+	</groups>
+  
+ <listeners>
+		<listener class-name="utility.ExtentReportManager"></listener>
+	</listeners>
+  <test name="chrome">
+	  <parameter name="os" value="macos"/>
+	  <parameter name="browser" value="chrome"/>
+    <classes>
+    <!-- <class name="BaseTest.BaseClass"/>-->
+      <class name="TestCase.TC_001_AccountRegistrationTest"/>
+       <class name="TestCase.LoginTest"/>
+      <!-- <class name="LoginDataDrivenTest"></class>-->
+    </classes>
+  </test> 
+</suite>
+

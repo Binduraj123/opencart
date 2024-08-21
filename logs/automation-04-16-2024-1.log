@@ -1,0 +1,47 @@
+13:29:03.698 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+13:29:03.747 [main] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+13:29:03.748 [main] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+13:29:08.637 [main] INFO  TestCase.LoginTestCase - ****starting Logintest****
+13:29:08.696 [main] INFO  TestCase.LoginTestCase - clicked on account
+06:51:04.710 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+06:51:04.842 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+06:51:05.071 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+06:51:05.141 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+06:51:05.626 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+06:51:05.626 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+06:51:05.974 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+06:51:05.975 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+06:51:07.247 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+06:51:07.287 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+06:51:07.288 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+06:51:07.713 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+06:51:07.754 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+06:51:07.755 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+06:52:36.524 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+06:52:36.625 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+06:52:36.885 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+06:52:36.944 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+06:52:37.441 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+06:52:37.441 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+06:52:37.940 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+06:52:37.941 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+06:52:39.001 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+06:52:39.370 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+06:52:42.045 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+06:52:42.046 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+06:52:42.400 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+06:52:42.400 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+10:41:00.463 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+10:41:00.506 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***acoountregistrationlink***
+10:41:00.580 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+10:41:00.622 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on Myaccount
+10:41:01.341 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+10:41:01.341 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+10:41:01.434 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on register
+10:41:01.434 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  entering the user details
+10:41:03.285 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+10:41:03.286 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  clicked on continue
+10:41:06.315 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+10:41:06.315 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest -  validating the expected messesage
+10:41:06.315 [TestNG-tests-1] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
+10:41:06.316 [TestNG-tests-2] INFO  TestCase.TC_001_AccountRegistrationTest - ***finishedacoountregistrationlink***
